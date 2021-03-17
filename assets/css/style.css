@@ -1,0 +1,63 @@
+* { 
+    background-color: white;
+    font-family: system-ui;
+}
+
+header {
+    background-color;
+}
+
+#tagline {
+    margin-top: 100px;
+    position:;
+}
+
+/* The logo */
+#logo {
+    width: 80px;
+   float: left;
+}
+
+/* The Form */
+
+.form-container {
+    background-color: white;
+    padding: 20px;
+    border-style: solid;
+    border-color: orange;
+    margin-top: 50px;
+  }
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px;
+  border-style: solid;
+  border-color: green;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: lightskyblue;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 20px;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+
+/* The Footer */
+
+footer {
+    margin-top: 300px;
+}
