@@ -4,11 +4,29 @@
 }
 
 header {
-    background-color;
+    padding: 20px;
+    background-color: grey;
+}
+
+.nav {
+    float: right;
+    background-color: grey;
+}
+
+.nav-link {
+    background-color: grey;
+    color: orangered;
+    padding: 10px;
+}
+
+h1 {
+    display: inline;
+    background-color: grey;
+    color: white;
 }
 
 #tagline {
-    margin-top: 100px;
+    margin-top: 20px;
     position:;
 }
 
@@ -60,4 +78,6 @@ input[type=submit]:hover {
 
 footer {
     margin-top: 300px;
+    padding: 20px;
+    background-color: grey;
 }
